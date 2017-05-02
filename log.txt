@@ -1,0 +1,474 @@
+2017-02-28 22:10:23<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488291023</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+1488291023|
+2017-02-28 22:10:28<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488291028</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[rselfmenu_0_0]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+1488291028|
+2017-02-28 22:38:59<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488292739</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-02-28 22:44:16<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488293055</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-02-28 22:44:27<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488292739</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+
+2017-02-28 22:45:25<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488292739</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+
+2017-02-28 22:45:38<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488293138</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-02-28 22:47:50<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488293270</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-02-28 22:48:53<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488292739</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+
+2017-02-28 22:53:41<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488293621</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-02-28 22:54:15<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488292739</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+
+2017-02-28 22:54:50<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488293690</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-02-28 23:18:42<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488295122</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-02-28 23:19:24<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488295164</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-02-28 23:34:36<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488296076</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[010010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-02-28 23:35:21<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488296121</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[10010001001]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-01 09:58:26<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488333506</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01002170799]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-01 11:07:27<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488337646</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01001170199]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-01 11:09:36<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488337775</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01001170200]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-01 11:11:32<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488337892</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01001170197]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-01 14:57:16<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488351429</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01001170198]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-01 14:57:16<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488351429</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01001170198]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-01 14:57:20<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488351440</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6392420760174411930</MsgId>
+</xml>
+2017-03-01 14:57:26<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488351446</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01001170198]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-01 14:58:40<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488351520</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01002170799]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-01 17:18:33<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488359911</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01002170800]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-02 09:21:27<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488417687</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01002170798]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-02 16:18:31<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488442709</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6392812757544568957</MsgId>
+</xml>
+2017-03-03 16:24:40<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488529479</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[barcode]]></ScanType>
+<ScanResult><![CDATA[EAN_13,6926032353065]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-03 16:28:08<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwFstZdWot5nVh38HLkb-AP8]]></FromUserName>
+<CreateTime>1488529688</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-03-03 16:29:30<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwFstZdWot5nVh38HLkb-AP8]]></FromUserName>
+<CreateTime>1488529770</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[rselfmenu_0_0]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[http://weixin.qq.com/r/ire6opHEhMz7rdXB9_KY]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-03 16:31:45<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488529905</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.sishuixingchen.com/YWBD/index.php]]></EventKey>
+<MenuId>419783356</MenuId>
+</xml>
+2017-03-03 17:38:35<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwFstZdWot5nVh38HLkb-AP8]]></FromUserName>
+<CreateTime>1488533913</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[rselfmenu_0_0]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01002170400]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-05 09:44:53<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488678293</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6393824583120068389</MsgId>
+</xml>
+2017-03-05 09:45:20<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488678320</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[121212121]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-07 09:12:26<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488849144</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01002170393]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-07 15:10:54<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488870653</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01001170194]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-07 15:12:05<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1488870725</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01001170193]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-09 16:22:52<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1489047770</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01002170391]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-09 16:28:10<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1489048089</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[01002170399]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-13 15:16:06<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwPaB1btv-E0maeELvwEbPs8]]></FromUserName>
+<CreateTime>1489389362</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-03-13 15:16:18<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwPaB1btv-E0maeELvwEbPs8]]></FromUserName>
+<CreateTime>1489389378</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[rselfmenu_0_0]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[http://weixin.qq.com/r/ire6opHEhMz7rdXB9_KY]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-15 15:46:34<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwPEEtvy1LKT7CU4awUW3p_I]]></FromUserName>
+<CreateTime>1489563990</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-03-15 15:51:58<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1489564318</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[http://weixin.qq.com/r/1nVpcWvEGjZlrS8S9yDE]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-15 15:52:35<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1489564355</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_push]]></Event>
+<EventKey><![CDATA[rselfmenu_0_1]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[http://weixin.qq.com/r/1nVpcWvEGjZlrS8S9yDE]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-15 15:53:10<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1489564390</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_push]]></Event>
+<EventKey><![CDATA[rselfmenu_0_1]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[1101010101]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-03-15 15:53:28<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1489564408</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.sishuixingchen.com/YWBD/scan.php]]></EventKey>
+<MenuId>419783356</MenuId>
+</xml>
+2017-03-15 15:53:45<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1489564425</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[qrcode]]></ScanType>
+<ScanResult><![CDATA[1101010101]]></ScanResult>
+</ScanCodeInfo>
+</xml>
+2017-04-14 16:20:07<xml><ToUserName><![CDATA[gh_3442e737e5ca]]></ToUserName>
+<FromUserName><![CDATA[of4PSwHMPGveDeapbfiJ7ggDq0PA]]></FromUserName>
+<CreateTime>1492158007</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[scancode_waitmsg]]></Event>
+<EventKey><![CDATA[Scan_Query]]></EventKey>
+<ScanCodeInfo><ScanType><![CDATA[barcode]]></ScanType>
+<ScanResult><![CDATA[CODE_128,431999937996]]></ScanResult>
+</ScanCodeInfo>
+</xml>
